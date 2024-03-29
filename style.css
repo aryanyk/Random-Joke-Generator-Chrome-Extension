@@ -1,0 +1,21 @@
+body {
+    height: 300px;
+    width: 300px;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f0f0f0; /* light color background */
+  }
+  
+p {
+    max-width: 80%;
+    padding: 20px;
+    border-radius: 20px; /* rounded edges */
+    background-color: #ffffff; /* white background */
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); /* shadow effect */
+    text-align: center;
+    font-size: 22px;
+  }
+  
